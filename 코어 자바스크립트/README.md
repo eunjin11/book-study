@@ -10,6 +10,6 @@
 
 5. [클로저](https://github.com/eunjin11/book-study/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/05%20%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 
-- 클로저를 활용해 스로틀 훅 구현하기
+    - [클로저를 활용해 스로틀 훅 구현하기](https://github.com/eunjin11/book-study/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%B4%20%EC%8A%A4%EB%A1%9C%ED%8B%80%20%ED%9B%85%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
 
 6. [프로토타입](https://github.com/eunjin11/book-study/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/06%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)

@@ -11,7 +11,7 @@
 2.  [지역 상태와 전역 상태 이용하기](https://github.com/eunjin11/book-study/blob/main/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%9B%85%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%20%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC/02%20%EC%A7%80%EC%97%AD%20%EC%83%81%ED%83%9C%EC%99%80%20%EC%A0%84%EC%97%AD%20%EC%83%81%ED%83%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 
-## 코어 자바스크립트
+# 코어 자바스크립트
 
 > 핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍
 
@@ -21,7 +21,8 @@
 
 4. [콜백 함수](https://github.com/eunjin11/book-study/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/04%20%EC%BD%9C%EB%B0%B1%20%ED%95%A8%EC%88%98.md)
 
-
 5. [클로저](https://github.com/eunjin11/book-study/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/05%20%ED%81%B4%EB%A1%9C%EC%A0%80.md)
+
+    - [클로저를 활용해 스로틀 훅 구현하기](https://github.com/eunjin11/book-study/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%B4%20%EC%8A%A4%EB%A1%9C%ED%8B%80%20%ED%9B%85%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
 
 6. [프로토타입](https://github.com/eunjin11/book-study/blob/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/06%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
